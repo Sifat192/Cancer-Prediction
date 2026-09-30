@@ -74,6 +74,20 @@ Model Evaluation
 ```
 
 ---
+## Model Workflow
+
+The diagram provides an overview of the cancer prediction
+project's workflow.
+
+<p align="center">
+  <img src="cancer-prediction-workflow.png"
+       alt="Cancer prediction project workflow"
+       width="450">
+</p>
+
+[View full-size diagram](cancer-prediction-workflow.png)
+
+---
 
 ## Data Preprocessing
 
